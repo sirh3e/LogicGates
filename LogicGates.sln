@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirh3e.LogicGates.Lib", "src\Sirh3e.LogicGates.Lib\Sirh3e.LogicGates.Lib.csproj", "{17A9DB67-418E-4B3E-829C-B4EFEC38E364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirh3e.LogicGates.Cli", "src\Sirh3e.LogicGates.Cli\Sirh3e.LogicGates.Cli.csproj", "{0C302057-A10D-4A96-A848-FBBAA6127F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirh3e.LogicGates.Tests", "src\Sirh3e.LogicGates.Tests\Sirh3e.LogicGates.Tests.csproj", "{9187E505-91E5-4A60-84E8-1C19D81DA332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A9DB67-418E-4B3E-829C-B4EFEC38E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A9DB67-418E-4B3E-829C-B4EFEC38E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A9DB67-418E-4B3E-829C-B4EFEC38E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A9DB67-418E-4B3E-829C-B4EFEC38E364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C302057-A10D-4A96-A848-FBBAA6127F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C302057-A10D-4A96-A848-FBBAA6127F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C302057-A10D-4A96-A848-FBBAA6127F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C302057-A10D-4A96-A848-FBBAA6127F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9187E505-91E5-4A60-84E8-1C19D81DA332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9187E505-91E5-4A60-84E8-1C19D81DA332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9187E505-91E5-4A60-84E8-1C19D81DA332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9187E505-91E5-4A60-84E8-1C19D81DA332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
